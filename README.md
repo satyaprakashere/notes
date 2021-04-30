@@ -1,10 +1,10 @@
 # How to publish your own [neuron] site
 
-[neuron] is a note-taking app optimized for publishing, and you can use this template repository to get started with [publishing](https://neuron.zettel.page/778816d3.html) your own neuron site that looks like [one of these][examples].
+[neuron] is a note-taking app optimized for publishing. Use this template repository to get started with [publishing](https://neuron.zettel.page/778816d3.html) your own neuron site that looks like [one of these][examples].
 
 - Go to <https://github.com/srid/neuron-template/generate>
 - Give your new repository a name, say `mynotes`
-- Select "*Include all branches*" ([necessary to get the site to publish](https://stackoverflow.com/a/47368231/55246))
+- Select "*Include all branches*" ([might be necessary to get the site to publish](https://stackoverflow.com/a/47368231/55246))
 - Click "Create repository from template"
   - Note: if you are on the free GitHub plan, your repository should be public for GitHub to publish it.
 
@@ -24,9 +24,10 @@ To understand how linking works, read [the neuron guide on Linking][linking].
 
 For other ways to edit your notes (editors, web interface), see the [neuron guide][create]. In particular, [Cerveau](https://www.cerveau.app/) is the easiest way to edit your notes on the go.
 
-Questions? Checkout the [[faq]].
+Got questions? Checkout the [[faq]]. To find who else is using this template *publicly on GitHub*, [see here](https://github.com/search?o=desc&q=filename%3Aneuron.dhall&s=indexed&type=Code).
 
-[neuron]: https://neuron.zettel.page/
-[examples]: https://neuron.zettel.page/examples.html
-[linking]: https://neuron.zettel.page/linking.html
-[create]: https://neuron.zettel.page/create.html
+[neuron]: https://neuron.zettel.page
+[examples]: https://neuron.zettel.page/examples
+[linking]: https://neuron.zettel.page/linking
+[create]: https://neuron.zettel.page/create
+
